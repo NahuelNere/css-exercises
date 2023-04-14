@@ -1,3 +1,19 @@
-.redlight_background {
-    background-color: lightpink;
+.odd_numbers {
+    background-color: rgb(245, 153, 167);
+    font-family: Verdana, Dejavu, sans-serif;
+}
+
+.number_3 {
+    font-size: 24px;
+}
+
+.green_background {
+    background-color: rgb(70, 239, 65);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#idname {
+    color:rgb(36, 36, 212);
+    font-size: 36px;
 }
