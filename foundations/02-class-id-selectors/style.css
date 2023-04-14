@@ -1,15 +1,14 @@
 .odd_numbers {
     background-color: rgb(245, 153, 167);
-    font-family: Verdana, Dejavu, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .number_3 {
     font-size: 24px;
 }
 
-.green_background {
+#four {
     background-color: rgb(70, 239, 65);
-    font-size: 24px;
     font-weight: bold;
 }
 
