@@ -1,13 +1,19 @@
-/* Css File Nahuel */
+/* Css file Nahuel*/
 
 .body{
   font-family:Arial, Helvetica, sans-serif
 }
 
-.para,
-.small-para {
+#confirm-button {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
+.para{
   color: hsl(0, 0%, 0%);
   font-weight: 800;
+  font-size: 22px;
 }
 
 .small-para {
@@ -15,15 +21,6 @@
   font-weight: 800;
 }
 
-.para {
-  font-size: 22px;
-}
-
-.confirm {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
 
 .button {
   background-color: rgb(255, 255, 255);
@@ -31,14 +28,23 @@
   font-size: 20px;
 }
 
-.child {
-  color: rgb(0, 0, 0);
-  font-weight: 800;
-  font-size: 14px;
-}
-
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
 }
+
+.text .child{
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+}
+
+/* opc.2 
+
+.text div{
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+}
+*/
